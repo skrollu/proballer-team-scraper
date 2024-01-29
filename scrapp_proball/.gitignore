@@ -1,0 +1,5 @@
+requirements.txt
+docker-compose.yml
+Dockerfile
+./csv/**
+.idea
